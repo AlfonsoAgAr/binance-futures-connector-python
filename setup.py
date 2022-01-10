@@ -11,7 +11,7 @@ DESCRIPTION = (
     "This is a lightweight library that works as a connector to Binance Futures public API."
 )
 AUTHOR = "Futures"
-URL = "https://github.com/binance/binance-futures-connector-python"
+URL = "https://github.com/regondi96/binance-futures-connector-python"
 VERSION = None
 
 about = {}
